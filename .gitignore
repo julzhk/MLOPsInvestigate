@@ -1,0 +1,12 @@
+/.git/
+/.git/
+.coverage
+/*/.pytest_cache/
+/*/.coverage
+/.idea/dbnavigator.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/pythonProject3.iml
+/.idea/vcs.xml
